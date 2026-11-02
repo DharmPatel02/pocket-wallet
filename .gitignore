@@ -1,0 +1,35 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Test and tool caches
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+
+# Local SQLite database (Block 6)
+*.db
+*.sqlite3
+
+# Secrets
+.env
+
+# OS and editor files
+.DS_Store
+.vscode/
+.idea/
+
+# AI tutor and learning notes (not part of the app)
+.claude/
+AGENTS.md
+CLAUDE.md
+PLAN.md
+PYTHON_FOR_CPP.md
+START_HERE.md
